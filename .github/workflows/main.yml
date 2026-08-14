@@ -42,7 +42,9 @@ jobs:
         ./zig-out/bin/github-stats
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        EXCLUDE_REPOS: ${{ secrets.EXCLUDE_REPOS }}
+        # These repositories would otherwise contribute their entire star,
+        # fork, and language totals rather than only Hao's own changes.
+        EXCLUDE_REPOS: "leanprover-community/mathlib4,tsuki8/mathlib4,tsuki8/github_status"
         EXCLUDE_LANGS: ${{ secrets.EXCLUDE_LANGS }}
         EXCLUDE_PRIVATE: "false"
         SILENT: "true"
