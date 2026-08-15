@@ -134,19 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #000; 
-  width: 79.459%;
+  width: 79.432%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 15.600%;
+  width: 15.595%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 2.573%;
+  width: 2.572%;
+" class="progress-item"></span><span style="
+  background-color: #e34c26; 
+  width: 0.970%;
 " class="progress-item"></span><span style="
   background-color: #3D6117; 
   width: 0.940%;
-" class="progress-item"></span><span style="
-  background-color: #e34c26; 
-  width: 0.937%;
 " class="progress-item"></span><span style="
   background-color: #000; 
   width: 0.437%;
@@ -185,7 +185,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Lean</span>
-  <span class="percent">79.46%</span>
+  <span class="percent">79.43%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -201,7 +201,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">15.60%</span>
+  <span class="percent">15.59%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -223,22 +223,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #3D6117;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">TeX</span>
-  <span class="percent">0.94%</span>
-</li>
-<li style="animation-delay: 750ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #e34c26;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -249,6 +233,22 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">HTML</span>
+  <span class="percent">0.97%</span>
+</li>
+<li style="animation-delay: 750ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #3D6117;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">TeX</span>
   <span class="percent">0.94%</span>
 </li>
 <li style="animation-delay: 900ms;">
